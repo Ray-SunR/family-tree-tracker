@@ -1,0 +1,22 @@
+! D
+! C
+! B
+! A
++ A E
++ A F
+! King
+p
+* B
+p
++ B C
++ B D
+? E
+? D
+* G
+p
++ A B
++ B C
++ B D
+? E
+? D
+p

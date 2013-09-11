@@ -1,0 +1,15 @@
+! C
+! B
+! A
++ A D
++ B E
++ B F
++ C G
++ C H
+? E
+? H
+? G
+? F
++ I C
+? I
+p

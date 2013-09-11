@@ -1,0 +1,9 @@
+A,B,E
+A,B,C,H
+A,B,C,G
+A,B,F
+Failed
+Not found
+A is parent of B,D
+B is parent of C,E,F
+C is parent of G,H

@@ -1,0 +1,17 @@
+King is parent of A
+A is parent of B,E,F
+B is parent of C
+C is parent of D
+King is parent of A
+A is parent of E,F
+Failed
+Failed
+King,A,E
+Not found
+King is parent of A
+A is parent of E,F
+King,A,E
+King,A,B,D
+King is parent of A
+A is parent of E,F,B
+B is parent of C,D

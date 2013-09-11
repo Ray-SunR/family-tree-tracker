@@ -1,0 +1,13 @@
+A,B,C
+A,B,C,D,E,F,G,H,I
+A,B,C,D,E,F,G,H
+A,B,C,D,E,F,G
+A is parent of B
+B is parent of C
+C is parent of D
+D is parent of E
+E is parent of F
+F is parent of G
+G is parent of H
+H is parent of I
+I is parent of J
