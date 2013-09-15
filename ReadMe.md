@@ -52,7 +52,7 @@ Reads the file filename and executes the commands contained therein. The program
 ? G    
 p      
    
-**Output:**
+**Output:**    
 A,B,C     
 A,B,C,D,E,F,G,H,I     
 A,B,C,D,E,F,G,H     
