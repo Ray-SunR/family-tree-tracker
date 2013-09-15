@@ -1,7 +1,7 @@
 #Family Tree Tracker
 Contributor: Renchen Sun (Ray)
 
-#Compilation
+##Compilation
 The program can be compiled by using following command     
 
 make     
@@ -13,7 +13,7 @@ make clean
 An executable called "family-tree" will be produced.    
 make clean    
 
-##Instroction:
+##Instruction:
 A family tree begins with a topmost acestor and indicates the ancestor's children, and then their children, and so on. In this type of family tree, which is oriented towards the decentants rather than acestors, each non-root leaf is decentant of one parent (the other parent is not considered)      
 
 
